@@ -6,3 +6,8 @@
 ###### Testing H6 size
 
 ![Image of crash bandicoot](https://mediamaster.vandal.net/m/9-2022/202291917113545_1.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
